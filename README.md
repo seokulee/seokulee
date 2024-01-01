@@ -3,7 +3,15 @@ Only Python
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokulee)](https://solved.ac/seokulee/)
 
+
 <!--
+# Kaggle
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/seokulee/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/seokulee/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/seokulee/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/seokulee/discussion/light)
+
 ### Hi there 👋
 **seokulee/seokulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
