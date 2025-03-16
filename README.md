@@ -38,3 +38,5 @@
 - `Django` 백엔드 구축
 - `Postgresql` 기반 모델, `Redis` 기반 WebSocket 구현
 - `Docker Compose` 를 활용한 인프라 구현
+
+### Job Description 분석
