@@ -14,11 +14,8 @@
   
 ## Certificates
 
-- [SQLD](https://github.com/user-attachments/files/18285132/sqld_cert.pdf)
-- [빅데이터분석기사](https://github.com/user-attachments/files/18285130/_cert.pdf)
-- [TOEIC](https://github.com/user-attachments/assets/77491acc-64a2-4b52-9683-7456c90e8c0f)
-- [OPIC](https://github.com/user-attachments/assets/165e6907-a4d2-41e2-b9b6-370c1b11300a)
-
+- SQLD
+- 빅데이터분석기사
 
 ## Projects
 
